@@ -14,7 +14,7 @@ java {
 }
 
 allay {
-    api = "0.20.0"
+    api = "0.21.0"
 
     plugin {
         entrance = ".ChainMining"
